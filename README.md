@@ -28,5 +28,5 @@ I'm a student of Microverse, I am also an open-source enthusiast and maintainer.
 </p>
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=piesieomane) 
 
-<!-- [![GitHub Game of Life](https://github4life.herokuapp.com/piesieomane.gif?z=6)](https://github4life.herokuapp.com/piesieomane) -->
+ [![GitHub Game of Life](https://github4life.herokuapp.com/piesieomane.gif?z=6)](https://github4life.herokuapp.com/piesieomane) 
 
