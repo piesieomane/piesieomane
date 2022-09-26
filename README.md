@@ -23,10 +23,10 @@ I'm a student of Microverse, I am also an open-source enthusiast and maintainer.
 <p align="center">
 <a href="https://github.com/piesieomane">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=piesieomane&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=piesieomane&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-nine-theta.vercel.app/api/top-langs/?username=piesieomane&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=piesieomane) 
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/piesieomane.gif?z=6)](https://github4life.herokuapp.com/piesieomane)
+<!-- [![GitHub Game of Life](https://github4life.herokuapp.com/piesieomane.gif?z=6)](https://github4life.herokuapp.com/piesieomane) -->
 
